@@ -1,10 +1,10 @@
-#Git Usage
+# Git Usage
 
-##Creating repo
+## Creating repo
 `git init`
 
-##Adding files
+## Adding files
 `git add -filename`
 
-##Commit
+## Commit
 `git commit`
